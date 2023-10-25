@@ -13,15 +13,16 @@
 - Data science
 
 ### Education
-- B.A. in Linguistics, Dept. of Linguistics & Cognitive Science, Hankuk University of Foreign Studies, Korea.
-- B.A. in Linguistics, Dept. of Statistics, Hankuk University of Foreign Studies, Korea.
+- B.A. in Dept. of Linguistics & Cognitive Science, Hankuk University of Foreign Studies, Korea. (2020.03-2023.02)
+- B.S. in Dept. of Statistics, Hankuk University of Foreign Studies, Korea. (2020.3-2023.2)
+- M.S. in Artificial Intelligence, Hankuk University of Foreign Studies, Korea. (2023.09-Present)
 
 ### Experience
-- NLP researcher (Twigfarm)
+- NLP researcher at Twigfarm, Korea. (2022.10-2023.03)
 
 ### Leadership & Activities
-- Board Member, NLP academic society at Hankuk University of Foreign Studies
-- Research Assistant, Digital language & knowledge contents research center
+- Board Member, NLP academic society at Hankuk University of Foreign Studies, Korea. (2020.03-2022.02)
+- Research Assistant, Digital language & knowledge contents research center, Korea. (2020.07-2020.10, 2022.12-2023.02)
 
 
 ### Tech
